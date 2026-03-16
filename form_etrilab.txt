@@ -1,0 +1,103 @@
+Partie 1 : Diagnostic de terrain (25 points)
+
+1.1 - Votre problème, votre regard
+Décrivez UN problème concret que vous avez personnellement observé, vécu ou
+étudié de près. Incluez : la situation précise (lieu, personnes, circonstances), ce
+qui vous a frappé ou surpris, les causes profondes (au moins 3) distinguées des
+symptômes visibles, et les conséquences mesurables ou observables sur les
+personnes affectées.
+
+1.2 - Cartographie des acteurs
+Identifiez 4 à 6 parties prenantes clés. Pour chacune : son rôle actuel, ses intérêts
+et motivations réels (pas les officiels), sa principale contrainte ou résistance au
+changement.
+
+1.3 - Évaluation critique de votre propre analyse
+Identifiez 2 biais potentiels dans votre analyse de la Question 1.1. Pour chacun :
+décrivez le biais et pourquoi vous y êtes exposé(e), et expliquez comment vous
+limiteriez son impact dans une investigation rigoureuse.
+
+Partie 2 - Conception d'une solution IA
+30 points · ~2h · 800-1000 mots
+
+2.1 - Une solution, deux scénarios opposés
+Proposez une solution IA pour votre problème (type, fonctionnement, données,
+approche). Présentez ensuite : Scénario A (contexte favorable) et Scénario B
+(contexte difficile). Concluez en indiquant lequel est le plus probable dans votre
+contexte et pourquoi.
+
+2.2 - Impact attendu et limites
+Définissez : 3 indicateurs quantitatifs, 2 indicateurs qualitatifs observables, et 1
+situation dans laquelle votre solution échouerait probablement - avec votre
+décision finale (deployer quand même ou non) et sa justification.
+
+2.3 - Faisabilité locale
+Évaluez la faisabilité dans votre contexte local spécifique : infrastructure et
+connectivité réelle, langue(s) de l'interface et implications pour l'adoption, modèle
+de financement realiste pour les 18 premiers mois, et un acteur local concret qui
+pourrait être partenaire.
+
+Partie 3 : Prototype analytique
+30 points · ~2h30 · Notebook Python (Jupyter / Google Colab)
+
+- Lien vers votre notebook (Google Colab ou GitHub)
+Le notebook doit : être exécute de haut en bas sans erreur, travailler sur le dataset
+EtriLabs fourni le matin, inclure des cellules Markdown explicatives après chaque
+cellule de code, et couvrir les étapes 3.1 à 3.3 (3.4 optionnel/bonus).
+
+
+- Résumé de vos principales observations analytiques
+Résumez brièvement : les 2 hypothèses testées, les résultats obtenus, leur
+interprétation en lien avec le contexte terrain, et une limite importante de votre
+analyse liée à la qualité ou représentativité des données.
+
+Partie 4 : Jugement & Esprit critique
+15 points · ~1h · 400-500 mots
+
+4.1 - Choisir et défendre
+Choisissez l'affirmation avec laquelle vous êtes le plus en accord :
+Affirmation A - "L'IA peut améliorer la qualité des services de santé et
+d'education en Afrique de l'Ouest dans les 5 prochaines annees, à condition
+d'investir correctement."
+Affirmation B - "L'IA risque d'aggraver les inégalités existantes en Afrique de
+l'Ouest si elle est déployée sans prendre en compte les réalités locales de
+manière profonde."
+Défendez votre position avec des exemples concrets, et reconnaissez
+honnêtement la part de vérité dans la position opposée.
+
+4.2 - La ligne rouge
+Identifiez UNE decision dans votre domaine pour laquelle une solution IA ne
+devrait jamais être la seule à décider. Justifiez avec les réalités concrètes de
+votre contexte (pas des généralités éthiques).
+
+
+4.3 - Ce que vous avez appris en faisant cet exercice
+Qu'avez-vous découvert - sur le problème, sur la solution, ou sur vous-même ?
+Qu'est-ce qui vous a surpris, bloqué, ou fait changer d'avis ?
+
+Partie 5 - Déclaration d'utilisation des outils IA
+Obligatoire · non pénalisée · une absence sera considérée comme un manque de
+transparence
+
+Quels outils IA avez-vous utilisés ?
+Sélectionnez tout ce qui s'applique.
+
+ChatGPT
+
+Claude
+
+Gemini
+
+GitHub Copilot
+
+Other:
+
+- Pour chaque outil utilisé : quelle partie / tâche, ce que vous avez gardé / modifié 
+/ rejeté
+Exemple : "ChatGPT - Partie 2 : j'ai utilisé la structure proposée mais rejeté les
+exemples africains génériques et les ai remplacés par des cas que je connais
+personnellement."
+
+
+- Lien vers votre document écrit complet (PDF ou Word)
+Google Drive, Dropbox, ou tout lien de partage accessible.
