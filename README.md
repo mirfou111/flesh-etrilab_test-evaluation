@@ -1,7 +1,7 @@
-# Analyse de la Santé Maternelle en Afrique de l'Ouest
-### Test d'évaluation EtriLabs — Programme FLESH
+### Analyse de la Santé Maternelle en Afrique de l'Ouest
+#### Test d'évaluation EtriLabs Programme FLESH
 
-## Contexte
+#### Contexte
 
 Ce notebook a été développé dans le cadre du processus de sélection du programme
 FLESH | EtriLabs. Il porte sur l'analyse des déterminants de l'accouchement assisté
@@ -12,14 +12,14 @@ L'intérêt pour cette problématique est né d'un projet antérieur de prédict
 pénuries de sang au Sénégal qui m'a conduit à explorer les causes profondes de
 la mortalité maternelle, dont l'hémorragie du post-partum est l'une des premières.
 
-## Objectifs
+#### Objectifs
 
 - Explorer et analyser le dataset sante_maternelle fourni par EtriLabs
 - Tester deux hypothèses terrain sur les déterminants du suivi prénatal
 - Construire un modèle de scoring de risque pour prioriser les interventions
   des agents de santé communautaires
 
-## Structure du projet
+#### Structure du projet
 ```
 etrilab-sante-maternelle/
 │
@@ -39,11 +39,11 @@ etrilab-sante-maternelle/
 
 ## Résultats clés
 
-- **H1 confirmée** — corrélation négative significative entre distance et CPN
+- **H1 confirmée** corrélation négative significative entre distance et CPN
   (Spearman r=-0.20, p<0.0001)
-- **H2 confirmée** — les femmes visitées par un ASC accouchent plus souvent
+- **H2 confirmée** les femmes visitées par un ASC accouchent plus souvent
   avec assistance (66.6% vs 55%, Chi² p<0.0001)
-- **Modèle final** — régression logistique (AUC=0.71), le milieu rural et le
+- **Modèle final** régression logistique (AUC=0.71), le milieu rural et le
   niveau d'instruction sont les variables les plus déterminantes
 
 ## Stack technique
@@ -56,4 +56,4 @@ etrilab-sante-maternelle/
 
 ## Auteur
 
-Ousmane NDIEGUENE Candidat au programme FLESH | EtriLabs — Thiès, Sénégal
+Ousmane NDIEGUENE Candidat au programme FLESH | EtriLabs, Thiès, Sénégal
